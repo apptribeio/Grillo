@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grillo</string>
+    <string name="select_cricket">Selecciona un Grillo</string>
+	<string-array name="crikets_array">
+        <item>Jardin</item>
+        <item>Caricatura</item>
+        <item>Rio</item>
+    </string-array>
+    
+</resources>
